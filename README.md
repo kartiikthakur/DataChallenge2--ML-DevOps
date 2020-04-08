@@ -19,11 +19,11 @@ Chose the best performing to model to create a RESTful API using Flask and also 
 
 Webservice specifications:
 
-1.RESTful API
-2.Respect content-type header (application/json and text/html minimum other bonus)
-3.Discoverable from root path
-4.URL encoded GET parameter "words" returns predicted document type (confidence is a bonus) in field "prediction" and "confidence"
-5.HTML pages should be readable by a human and allow for action, aka input field and submit buttons etc.
+1. RESTful API
+2. Respect content-type header (application/json and text/html minimum other bonus)
+3. Discoverable from root path
+4. URL encoded GET parameter "words" returns predicted document type (confidence is a bonus) in field "prediction" and "confidence"
+5. HTML pages should be readable by a human and allow for action, aka input field and submit buttons etc.
 
 
 
