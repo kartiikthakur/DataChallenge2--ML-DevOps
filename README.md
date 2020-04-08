@@ -6,4 +6,15 @@ The given CSV file contains raw OCR data read from PDF soft copies. The document
 CANCELLATION NOTICE,641356219cbc f95d0bea231b ... [lots more words] ... 52102c70348d b32153b8b30c
 
 
+1.Trained a document classification model.
+2. Deployed my model to a public cloud platform (AWS) as a webservice.
+
+Accuracies of the experimented algorithms:
+
+1. Linear SVC: 0.816023166023166
+2. Logistic Regression: 0.7010939510939511
+3. Seq Neural Network : 0.8566
+
+Chose the best performing to model to create a RESTful API using Flask and also created a UI template for real time document analysis.
+
 
