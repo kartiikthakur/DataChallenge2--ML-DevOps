@@ -9,7 +9,7 @@ CANCELLATION NOTICE,641356219cbc f95d0bea231b ... [lots more words] ... 52102c70
 1.Trained a document classification model.
 2. Deployed my model to a public cloud platform (AWS) as a webservice.
 
-Accuracies of the experimented algorithms:
+Accuracies of the experimented algorithm:
 
 1. Linear SVC: 0.816023166023166
 2. Logistic Regression: 0.7010939510939511
